@@ -1,6 +1,6 @@
 # My-portfolio
 
-# 👋 Alaye Odilon Alabi
+# 👋 ALAYE Odilon Alabi
 
 **Administrateur Systèmes & Réseaux** — Cotonou, Bénin
 
