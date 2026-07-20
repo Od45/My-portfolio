@@ -21,7 +21,7 @@ Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professi
 
 | Projet | Description | Technos |
 |---|---|---|
-| 🔧 [VLAN Lab](https://github.com/Od45/vlan-lab) | Segmentation réseau avec VLANs, configuration switches/routeurs | Packet Tracer / GNS3, Cisco |
+| 🔧 [VLAN Lab](https://github.com/Od45/vlan-lab) | Segmentation réseau avec VLANs, configuration switches/routeurs | Packet Tracer |
 
 
 *(section mise à jour au fur et à mesure des nouveaux labs)*
