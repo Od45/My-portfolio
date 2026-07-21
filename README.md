@@ -22,6 +22,7 @@ Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professi
 | Projet | Description | Technos |
 |---|---|---|
 | 🔧 [VLAN Lab](https://github.com/Od45/vlan-lab) | Segmentation réseau avec VLANs, configuration switches/routeurs | Packet Tracer |
+| 🛡️ [DHCP/OSPF Lab](https://github.com/Od45/dhcp-ospf-lab) | Réseau multi-sites : DHCP, routage OSPF, sécurisation des routeurs Cisco (AAA, SSH/Telnet) | Packet Tracer |
 
 
 *(section mise à jour au fur et à mesure des nouveaux labs)*
