@@ -38,10 +38,6 @@ Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professi
 - Maintenance préventive, résolution d'incidents DHCP/câblage
 - Documentation technique et inventaire du parc
 
-**Assistant IT** — AdKontact Bénin — *oct. 2025 – avr. 2026*
-- Support utilisateurs on-site et télémaintenance
-- Gestion des stocks et suivi des incidents
-
 **Stagiaire Informaticien** — SCB-Lafarge — *juin – août 2024*
 - Gestion d'un parc de 150 équipements (postes, serveurs, réseau)
 - Audit réseau, configuration switches/routeurs/Wi-Fi, incidents VLAN/DNS
