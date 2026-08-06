@@ -11,7 +11,7 @@
 
 ## 🧭 Profil
 
-Titulaire d'une **Licence professionnelle en Sécurité Informatique** (IFRI), actuellement **Administrateur Systèmes & Réseaux** chez **AdKontact Bénin**, où je gère l'infrastructure informatique, la sécurité réseau et le support technique d'un parc de 80 postes.
+Titulaire d'une Licence Professionnelle en Sécurité Informatique obtenue à l'IFRI, je suis actuellement stagiaire en administration systèmes et réseaux chez ADE-TECHNOLOGY GROUP, où je participe à la gestion des infrastructures informatiques, à l'administration réseau, au support technique des utilisateurs et aux opérations de maintenance et de sécurisation des environnements IT.
 
 Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professionnel) pour démontrer mes compétences en réseau et cybersécurité : segmentation, détection de menaces, durcissement de systèmes, etc.
 
