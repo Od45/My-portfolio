@@ -1,7 +1,5 @@
 # My-portfolio
-
 # 👋 ALAYE Odilon Alabi
-
 **Administrateur Systèmes & Réseaux** — Cotonou, Bénin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-odi__alaye--8-blue?logo=linkedin)](https://linkedin.com/in/odi_alaye-8)
@@ -22,8 +20,8 @@ Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professi
 | Projet | Description | Technos |
 |---|---|---|
 | 🔧 [VLAN Lab](https://github.com/Od45/vlan-lab) | Segmentation réseau avec VLANs, configuration switches/routeurs | Packet Tracer |
+| 🌐 [VLAN, Inter-VLAN Routing, DHCP & VTP Lab](https://github.com/Od45/vlan-dhcp-vtp-lab) | Architecture 3 couches : segmentation VLAN, routage inter-VLAN sur switch multicouche, DHCP centralisé par VLAN, VTP Server/Client, Rapid-PVST | Packet Tracer |
 | 🛡️ [DHCP/OSPF Lab](https://github.com/Od45/dhcp-ospf-lab) | Réseau multi-sites : DHCP, routage OSPF, sécurisation des routeurs Cisco (SSH/Telnet) | Packet Tracer |
-
 
 *(section mise à jour au fur et à mesure des nouveaux labs)*
 
