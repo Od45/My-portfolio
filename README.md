@@ -1,21 +1,61 @@
-# My-portfolio
-# 👋 ALAYE Odilon Alabi
-**Administrateur Systèmes & Réseaux** — Cotonou, Bénin
+# 👋 Salut, je suis Odilon Alabi ALAYE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-odi__alaye--8-blue?logo=linkedin)](https://linkedin.com/in/odi_alaye-8)
-📧 fardilalaye@gmail.com · 📍 Cotonou, Bénin
+## 🌐 Administrateur Systèmes & Réseaux
+
+Titulaire d'une **Licence Professionnelle en Sécurité Informatique** (IFRI), j'ai récemment achevé mon stage professionnel au sein d'**ADE-TECHNOLOGY GROUP**. Cette expérience m'a permis de développer mes compétences en administration des systèmes et réseaux, en sécurisation des infrastructures informatiques et en support aux utilisateurs.
+
+Rigoureux, méthodique et doté d'un bon esprit d'analyse, je suis motivé à mettre mes compétences techniques et mon sens du service au profit de la performance et des objectifs de votre organisation.
+
+📧 fardilalaye@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;☎ 0161 74 06 08&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](https://linkedin.com/in/odi_alaye-8)
 
 ---
 
-## 🧭 Profil
+## 💼 Expériences professionnelles
 
-Titulaire d'une Licence Professionnelle en Sécurité Informatique obtenue à l'IFRI, je suis actuellement stagiaire en administration systèmes et réseaux chez ADE-TECHNOLOGY GROUP, où je participe à la gestion des infrastructures informatiques, à l'administration réseau, au support technique des utilisateurs et aux opérations de maintenance et de sécurisation des environnements IT.
+### 🔹 Administrateur Systèmes, Sécurité et Réseaux — Stagiaire professionnel
+**ADE-TECHNOLOGY GROUP** — Centre de formation et prestations informatiques
+*Septembre 2024 – Juillet 2026*
 
-Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professionnel) pour démontrer mes compétences en réseau et cybersécurité : segmentation, détection de menaces, durcissement de systèmes, etc.
+Missions réalisées en prestation chez des structures partenaires et au sein de la société :
+- Administration et maintenance d'un parc informatique d'environ 30 postes (installation, configuration, suivi des équipements et systèmes).
+- Support et assistance technique aux utilisateurs, sur site et à distance, avec diagnostic et résolution d'incidents matériels, logiciels et réseau.
+- Administration des réseaux LAN/Wi-Fi et configuration des équipements Cisco.
+- Mise en œuvre de mécanismes de sécurité réseau : **ACL, DHCP Snooping, Dynamic ARP Inspection (DAI)** et autres mécanismes de sécurisation.
+- Création et déploiement de **GPO** : blocage des clés USB, configuration du fond d'écran, déploiement automatisé de logiciels.
+- Déploiement et administration de solutions de supervision et de gestion du parc informatique (**Zabbix, Veyon Master**).
+- Participation à l'administration du pare-feu **FortiGate** : filtrage Web, réservations DHCP, règles de sécurité.
+- Suivi des interventions techniques, gestion de l'inventaire et rédaction de documentations techniques.
+- Mise en place et maintenance de solutions **VoIP** (Asterisk, GoAutoDial, passerelles GSM).
+- Contribution à la sécurisation et à l'amélioration des infrastructures informatiques.
+
+### 🔹 Technicien en réseau Informatique — Stagiaire professionnel
+**SCB-Lafarge**
+*Juin – Août 2024*
+
+- Gestion d'un parc de 150 équipements (postes, serveurs, réseau).
+- Audit réseau, configuration switches/routeurs/Wi-Fi, résolution d'incidents VLAN/DNS.
+- Correctifs de sécurité, mises à jour système, documentation rigoureuse.
+
+---
+
+## 🛠️ Compétences
+
+**Réseaux & Infrastructure**
+`LAN/WAN` `TCP/IP` `DNS` `DHCP` `VLAN` `Routeurs & Switches Cisco` `Wi-Fi` `Câblage` `Wireshark` `Packet Tracer` `GNS3`
+
+**Sécurité**
+`FortiGate (filtrage web)` `Cisco ACL/VPN` `Phishing & contre-mesures` `Portail captif`
+
+**Systèmes & Outils**
+`Windows Server` `Windows 10/11` `Linux` `Asterisk` `GoAutoDial` `OpenVox (VoIP)`
+
+**Soft Skills**
+Autonomie · Rigueur · Communication · Documentation · Travail sous pression
 
 ---
 
 ## 🧪 Projets / Labs
+
 | Projet | Description | Technos |
 |---|---|---|
 | 🔧 [VLAN Lab](https://github.com/Od45/vlan-lab) | Segmentation réseau avec VLANs, configuration switches/routeurs | Packet Tracer |
@@ -23,68 +63,48 @@ Ce dépôt regroupe mes **projets de labo** (montés en dehors du cadre professi
 | 🛡️ [DHCP/OSPF Lab](https://github.com/Od45/dhcp-ospf-lab) | Réseau multi-sites : DHCP, routage OSPF, sécurisation des routeurs Cisco (SSH/Telnet) | Packet Tracer |
 | 🌍 [OSPF, NAT, PPP & VPN Lab](https://github.com/Od45/dhcp-opsf-vpn-ppp-acl) | Réseau multi-sites : OSPF multi-processus, NAT/PAT, PPP avec authentification PAP, tunnel VPN GRE, ACLs de sécurité | Packet Tracer |
 
+---
 
+## 🎓 Formation
 
-
-
-
-
-*(section mise à jour au fur et à mesure des nouveaux labs)*
+| Diplôme / Formation | Établissement | Période |
+|---|---|---|
+| CCNA & Fortinet FCP – Fortigate 7.4 Administrator | ADE-Technology | 2025 – 2026 |
+| Licence Pro – Sécurité Informatique | IFRI | 2019 – 2023 |
 
 ---
 
-## 💼 Expérience professionnelle
+## 📜 Attestations & Certifications
 
-**Administrateur Systèmes & Réseaux** — AdKontact Bénin — *depuis avril 2026*
-- Déploiement et gestion de 80 postes en call center
-- FortiGate : ACL, segmentation réseau, filtrage web
-- Passerelle GSM OpenVox & trunks SIP (Asterisk / GoAutoDial)
-- Maintenance préventive, résolution d'incidents DHCP/câblage
-- Documentation technique et inventaire du parc
-
-**Stagiaire Informaticien** — SCB-Lafarge — *juin – août 2024*
-- Gestion d'un parc de 150 équipements (postes, serveurs, réseau)
-- Audit réseau, configuration switches/routeurs/Wi-Fi, incidents VLAN/DNS
-- Correctifs de sécurité, mises à jour, documentation rigoureuse
-
----
-
-## 🎓 Projets académiques
-
-**Détection des attaques de phishing** — Mémoire de licence
-Analyse des vecteurs d'attaque, mise en pratique avec PhisTool, contre-mesures.
-
-**Portail captif avec protocole AAA** — Projet de fin de stage (Qct-Group)
-Gestion sécurisée des accès Internet (Authentification / Autorisation / Comptabilisation).
-
----
-
-## 🛠️ Compétences
-
-**Réseaux & Infrastructure**
-`LAN/WAN` `TCP/IP` `DNS` `DHCP` `VLAN` `Routeurs & Switches` `Wi-Fi` `Câblage` `Wireshark` `Packet Tracer` `GNS3`
-
-**Sécurité**
-`FortiGate (ACL, filtrage web)` `Cisco (ACL, VPN)` `Phishing & contre-mesures` `Portail captif`
-
-**Systèmes & Outils**
-`Windows Server` `Windows 10/11` `Linux` `Asterisk` `GoAutoDial` `OpenVox (VoIP)`
-
----
-
-## 🎓 Formation & Attestation
-
-- **Licence professionnelle — Sécurité Informatique**, IFRI (2019 – 2023)
-- **Formation Pro CCNA**, ADE-Technology (2025)
+- **ADE-TECHNOLOGY GROUP** : CCNA · Fortinet FCP – Fortigate 7.4 Administrator
 - **Cisco** : Networking Technician Path · IT Support & Security · Cyber Defense · Introduction to Cybersecurity · OS Basics
 - **Fortinet** : Threat Landscape 2.0
 
 ---
 
-## 🌐 Langues
+## 🌍 Langues
 
-Français & Yoruba/Nagot (maternelle) · Fon (basique) · Anglais (débutant)
+- Français & Yoruba/Nagot — Maternelle
+- Anglais — Débutant
+- Fon — Basique
 
 ---
 
-📩 N'hésitez pas à me contacter pour toute opportunité ou collaboration.
+## 📇 Références
+
+| Nom | Structure | Contact |
+|---|---|---|
+| Adam Osseni | ADE-TECHNOLOGY GROUP | 01 40 12 64 08 |
+| Naim MOUSSA | ADE-TECHNOLOGY GROUP | 01 58 71 16 49 |
+| Jaurès Zinsou | SCB-LAFARGE | 01 66 12 47 46 |
+| Stanley GNANVI | SCB-LAFARGE | 01 96 09 15 05 |
+
+---
+
+## 📫 Me contacter
+
+- ✉️ [fardilalaye@gmail.com](mailto:fardilalaye@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/odi_alaye-8)
+- 💻 [GitHub](https://github.com/Od45)
+
+⭐ N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité !
