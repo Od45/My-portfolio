@@ -6,7 +6,7 @@ Titulaire d'une **Licence Professionnelle en Sécurité Informatique** (IFRI), j
 
 Rigoureux, méthodique et doté d'un bon esprit d'analyse, je suis motivé à mettre mes compétences techniques et mon sens du service au profit de la performance et des objectifs de votre organisation.
 
-📧 fardilalaye@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;☎ 01-61-74-06-08/01-41-75-93-88&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](https://linkedin.com/in/odi_alaye-8)
+📧 fardilalaye@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;☎ 01-61-74-06-08&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](https://linkedin.com/in/odi_alaye-8)
 
 ---
 
