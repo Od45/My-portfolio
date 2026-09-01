@@ -6,7 +6,7 @@ Titulaire d'une **Licence Professionnelle en Sécurité Informatique** (IFRI), j
 
 Rigoureux, méthodique et doté d'un bon esprit d'analyse, je suis motivé à mettre mes compétences techniques et mon sens du service au profit de la performance et des objectifs de votre organisation.
 
-📧 fardilalaye@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;☎ 0161 74 06 08&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](https://linkedin.com/in/odi_alaye-8)
+📧 fardilalaye@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;☎ 01-61-74-06-08/01-41-75-93-88&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](https://linkedin.com/in/odi_alaye-8)
 
 ---
 
@@ -61,6 +61,7 @@ Autonomie · Rigueur · Communication · Documentation · Travail sous pression
 | 🔧 [VLAN Lab](https://github.com/Od45/vlan-lab) | Segmentation réseau avec VLANs, configuration switches/routeurs | Packet Tracer |
 | 🌐 [VLAN, Inter-VLAN Routing, DHCP & VTP Lab](https://github.com/Od45/vlan-dhcp-vtp-lab) | Architecture 3 couches : segmentation VLAN, routage inter-VLAN sur switch multicouche, DHCP centralisé par VLAN, VTP Server/Client, Rapid-PVST | Packet Tracer |
 | 🛡️ [DHCP/OSPF Lab](https://github.com/Od45/dhcp-ospf-lab) | Réseau multi-sites : DHCP, routage OSPF, sécurisation des routeurs Cisco (SSH/Telnet) | Packet Tracer |
+| 🔐 [DHCP, OSPF & ACL Lab](https://github.com/Od45/dhcp-ospf-acl-lab) | Réseau multi-sites (Management, Server Room, Accounts, Sales) : DHCP, routage OSPF area 0, ACL étendues pour restreindre les accès inter-services (HTTP/FTP, filtrage ICMP, accès ciblés par hôte) | Packet Tracer |
 | 🌍 [OSPF, NAT, PPP & VPN Lab](https://github.com/Od45/dhcp-opsf-vpn-ppp-acl) | Réseau multi-sites : OSPF multi-processus, NAT/PAT, PPP avec authentification PAP, tunnel VPN GRE, ACLs de sécurité | Packet Tracer |
 
 ---
